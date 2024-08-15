@@ -70,7 +70,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or feedback, you can reach me at [your-email@example.com](mailto:sandeshpatel.sp.93@gmail.com).
+For questions or feedback, you can reach me at [sandeshpatel.sp.93@gmail.com](mailto:sandeshpatel.sp.93@gmail.com).
 
 ## GitHub
 
